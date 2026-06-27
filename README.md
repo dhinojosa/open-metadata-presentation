@@ -14,14 +14,14 @@ Slide deck is located in the repository, and the demo goes along with it.
 
 ![people.png](/images/people.png)
 
-| Name | Role | Email | Password |
-|---|---|---|---|
-| Priya Patel | Customer Domain Data Owner | priya@abccorp.com | priya123 |
-| Jamal Washington | Ordering Domain Data Owner | jamal@abccorp.com | jamal123 |
-| Aisha Hassan | Inventory Domain Data Owner | aisha@abccorp.com | aisha123 |
-| Mei Chen | Data Governance Lead | mei@abccorp.com | mei123 |
-| Miguel Rodriguez | Platform Engineering (Shared Services) | miguel@abccorp.com | miguel123 |
-| Steven Appleton | Data Engineering (Shared Services) | steven@abccorp.com | steven123 |
+| Name | Role | Email              | Password   |
+|---|---|--------------------|------------|
+| Priya Patel | Customer Domain Data Owner | priya@abccorp.com  | Priya123!  |
+| Jamal Washington | Ordering Domain Data Owner | jamal@abccorp.com  | Jamal123!  |
+| Aisha Hassan | Inventory Domain Data Owner | aisha@abccorp.com  | Aisha123!  |
+| Mei Chen | Data Governance Lead | mei@abccorp.com    | Mei123!    |
+| Miguel Rodriguez | Platform Engineering (Shared Services) | miguel@abccorp.com | Miguel123! |
+| Steven Appleton | Data Engineering (Shared Services) | steven@abccorp.com | Steven123! |
 
 ## Demos
 
