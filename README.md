@@ -47,21 +47,8 @@ Slide deck is located in the repository, and the demo goes along with it.
   ```bash
    ./load-openmetadata-users.sh
   ```
-8. Verify the Users are loaded
+8. Verify the Users are loaded, go to **[Settings > Team & User Management > Users]** and update the passwords, which has to be manually done.
+9. 
 
 ### Demo 2: Logging into Open Metadata
 
-1. Show the layout *Home*.
-   a. A search bar to locate any or all tables, schemas.
-   b. *Activity Feed* - ???
-   c. *Data Assets* - ???
-   d. *My Data* - ???
-   e. *KPI* - ???
-   f. *Total Data Assets* - ???  
-   g. *Following Assets* - ???
-2. Show the layout *Explore*.
-   a. Show Data Assets Window
-   b. Show Filtering: Data Assets, Domains, Owners, Tag, Tier, Certification, Service, and Service Type 
-3. Show *Service Lineage*
-   a. Locate a Data Asset
-   b. View Service Lineage in the main window
